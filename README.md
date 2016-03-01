@@ -1,0 +1,2 @@
+# enablecommunity
+enable community
